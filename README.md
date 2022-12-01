@@ -3,7 +3,6 @@
 
 The basis of this project is to deliver retirement metrics and work statistics from a large pool of data for Pewlett-Hackard, notably projected retirement dates and workers eligiblity for programs.
 
----
 
 ## RESULTS:
 
