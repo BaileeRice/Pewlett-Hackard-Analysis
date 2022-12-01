@@ -1,10 +1,11 @@
 # Pewlett-Hackard-Analysis
-OVERVIEW:
+## OVERVIEW:
 
 The basis of this project is to deliver retirement metrics and work statistics from a large pool of data for Pewlett-Hackard, notably projected retirement dates and workers eligiblity for programs.
+
 ---
 
-RESULTS:
+## RESULTS:
 
 -The retirement_titles table represents the employees that are eligible for retirement and their associating positions within the company, as well as their hire-on date and if they're actively still working.
 
@@ -22,9 +23,10 @@ RESULTS:
 -The mentor_elegibility table discloses who all is able to attend the 'mentorship program' Pewlett is offering its staff.
 
 ![image](https://user-images.githubusercontent.com/105184244/182977208-beff00be-c10c-4a30-aeb2-cab0b9c6d991.png)
+
 ---
 
-SUMMARY:
+## SUMMARY:
 
 The data shows that around 90,000 workers will be eligible for retirement in the near future, this will leave an obscene amount of vacancies within the company if not dealt with. Their is only around 1,500 workers that apply for the mentorship program after retirement is all said and done, that being said, there is a very slim chance that new hire-ons will have the opportunity to get hands on help from the vets.
 
