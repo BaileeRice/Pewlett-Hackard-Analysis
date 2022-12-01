@@ -23,7 +23,6 @@ The basis of this project is to deliver retirement metrics and work statistics f
 
 ![image](https://user-images.githubusercontent.com/105184244/182977208-beff00be-c10c-4a30-aeb2-cab0b9c6d991.png)
 
----
 
 ## SUMMARY:
 
